@@ -14,6 +14,13 @@ I would like to see a list of bookmarks
 As a time-pressed user
 So that i can store my most used websites for easy access
 I would like to add new bookmarks
+```
+
+```
+As a user
+So I can remove my bookmark from Bookmark Manager
+I want to delete a bookmark
+```
 
 ## Domain Model
 
